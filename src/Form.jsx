@@ -25,7 +25,7 @@ function Form(){
         console.log(edad);
         console.log(pokemon);
 
-        alert('Usuario registrado exitosamente!');
+        alert("Usuario registrado exitosamente!");
     }
 
     
